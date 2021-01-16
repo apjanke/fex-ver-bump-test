@@ -1,0 +1,9 @@
+Summary:
+
+Dummy project for testing File Exchange release handling
+
+
+Description:
+
+
+This is a dummy project to test how MathWorks File Exchange handles version sequencing for GitHub-linked projects. There is no useful code in here.

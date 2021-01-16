@@ -1,2 +1,3 @@
 # fex-ver-bump-test
-Dummy repo to test how MathWorks File Exchange handles release versioning
+
+This is a dummy project to test how MathWorks File Exchange handles version sequencing for GitHub-linked projects. There is no useful code in here.
