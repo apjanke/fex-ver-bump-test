@@ -8,3 +8,5 @@
 * Create a 2.0.1 Release marked as prerelease
   * Looks like File Exchange didn't pull it in; good.
 * Create a 3.0.0 Release that I'm calling bogus
+  * Oops, looks like I forgot to check the "pre-release" button when making the gh release
+  * FEX picked it up
