@@ -10,3 +10,4 @@
 * Create a 3.0.0 Release that I'm calling bogus
   * Oops, looks like I forgot to check the "pre-release" button when making the gh release
   * FEX picked it up
+  * Deleted the release at 01:30 2021-01-17
